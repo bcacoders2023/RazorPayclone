@@ -1,2 +1,2 @@
 # RazorPayclone
- this projet by the help of Tailwind css. 
+ this projet made  by the help of Tailwind css. 
